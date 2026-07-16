@@ -39,7 +39,5 @@ Portfolio Projects Directory
    **GRC Foundations: ISO 27001, NIST CSF & COBIT** — Coursera, Issued July 2026 (Credential ID: RYEJSMVP5FSA)
 
 Contact & Professional Networks:
-LinkedIn : https://www.linkedin.com/in/nthabeleng-thebehadi-55563713a/
-Contact Email: nthabelengthebehadi@gmail.com
-*   **LinkedIn:** [Insert Your LinkedIn Link Here]
-*   **Contact Email:** [Insert Your Email Here]
+*   **LinkedIn:** https://www.linkedin.com/in/nthabeleng-thebehadi-55563713a/
+*   **Contact Email:** nthabelengthebehadi@gmail.com
