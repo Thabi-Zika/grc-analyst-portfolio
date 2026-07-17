@@ -21,7 +21,7 @@ Portfolio Projects Directory
    **Frameworks:** PCI-DSS v4.0, NIST CSF v2.0 (Risk Assessment - Risk.ID)
     **Core Deliverables:** Qualitative 5 × 5 threat assessment matrix utilizing Annualised Rate of Occurrence (ARO) metrics, tracking input vulnerabilities (SQLi), infrastructure leak threats, and logistics ransomware exposures.
 
-[Project 3: Information Security Access Control Policy](./Project3_Access_Control_Policy.md
+[Project 3: Information Security Access Control Policy](./Project3_Access_Control_Policy.md)
    **Industry Focus:** Cross-Industry Corporate Governance
    **Frameworks:** ISO/IEC 27001:2022 (A.5.15 - A.5.18), NIST CSF v2.0 (PR.AA)
    **Core Deliverables:** Role-Based Access Control (RBAC) authorization matrix explicitly segregating FinTech and Logistics staff scopes, alongside corporate mandates for User Access Reviews (UAR) and offboarding timetables.
